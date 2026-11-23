@@ -1,153 +1,45 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub!
 
-## 👨‍💻 About Me
+## About Me
 
-👋 Hi, I'm **Jagannath Reddy P**, a results-driven Software Developer specializing in Java, Spring Boot, and Microservices development.
+👋 Hi, I'm Jagannath Reddy P! I'm a passionate Software Developer with experience in backend development, microservices, and cloud technologies. My core stack includes Java, Spring Boot, Hibernate, Spring Data JPA, Spring Security, REST APIs, and React. I have experience working with PostgreSQL, MySQL, Cassandra, Redis, and MongoDB, with a strong interest in building scalable, secure, and high-performance applications.
 
-I have experience designing, developing, and deploying scalable backend applications using Java, Spring Boot, Hibernate, and RESTful APIs.
+During my journey as a Software Engineer, I have worked on developing RESTful APIs, building microservices, optimizing database queries, and implementing secure application architectures. I've worked with technologies like Apache Kafka, Spring Cloud, AWS, Docker, Kubernetes, and Jenkins. I enjoy solving complex problems and building efficient backend solutions. 🚀
 
-My expertise includes working with SQL and NoSQL databases such as PostgreSQL, MySQL, Cassandra, Redis, and MongoDB, building secure and high-performance applications, and developing solutions across distributed cloud environments using AWS.
+I'm always excited to explore new technologies, improve my technical skills, and collaborate with developers on impactful projects. When I'm not coding, you might find me exploring new technologies or learning about software architecture. 💻
 
-🚀 I'm passionate about backend engineering, microservices architecture, database optimization, system design, and building reliable software solutions.
+Feel free to check out my repositories. Let's connect and build something amazing together! ✨
 
-💡 I believe in writing clean, maintainable code, following Test-Driven Development (TDD), and continuously exploring emerging technologies.
+[LinkedIn Profile](YOUR_LINKEDIN_URL)
 
-## 💼 Professional Experience
+[Portfolio Website](YOUR_PORTFOLIO_URL)
 
-### Software Engineer – Mahi Solar Solution Private Limited
-📍 Bengaluru, Karnataka | Dec 2023 – Aug 2026
+[Email](mailto:reddyjaganath2899@gmail.com)
 
-- Developed 20+ RESTful APIs using Java, Spring Boot, and Hibernate.
-- Worked on backend services handling 10K+ daily transactions.
-- Improved API response time by 40% through SQL optimization, indexing, and caching.
-- Developed dashboards and data visualizations for expense tracking.
-- Performed API load and performance testing using Apache JMeter.
-- Leveraged GitHub Copilot, Claude AI, and Codex for code generation and unit test scaffolding.
+## My Toolkit 🛠
 
-### Senior Engineer – Comviva Technologies Limited
-📍 Bengaluru, Karnataka | Dec 2022 – Dec 2023
+💻 Languages: Java, JavaScript, SQL
 
-- Managed SQL and NoSQL data flows using PostgreSQL, MySQL, Cassandra, and Redis.
-- Implemented OAuth and JWT security practices.
-- Developed responsive frontend interfaces using React.js, JavaScript, HTML, and CSS.
-- Built microservices using Spring Cloud, Feign Client, and Config Server.
-- Integrated React applications with Spring Boot REST APIs.
-- Developed automated end-to-end tests using Playwright.
-- Integrated CI/CD pipelines using Jenkins and Azure DevOps.
-- Implemented monitoring and log aggregation using Grafana and ELK Stack.
+🖥️ Frontend: React.js, HTML5, CSS3
 
-### Engineer – Comviva Technologies Limited
-📍 Bengaluru, Karnataka | Nov 2021 – Dec 2022
+🛠️ Backend: Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, Microservices, REST APIs
 
-- Developed high-traffic RESTful APIs using Spring Boot and Hibernate.
-- Built event-driven microservices using Apache Kafka and Spring Boot.
-- Worked with Terraform for infrastructure provisioning.
-- Optimized SQL queries, indexing, connection pooling, and caching.
-- Supported application deployment and debugging on Tomcat servers.
-- Designed database schemas supporting millions of records.
+⚙️ Databases: PostgreSQL, MySQL, Cassandra, Redis, MongoDB
 
-### Engineer Trainee – Comviva Technologies Limited
-📍 Bengaluru, Karnataka | Jul 2021 – Oct 2021
+☁️ Cloud: AWS, Docker, Kubernetes
 
-- Worked on Java-based enterprise application development.
-- Contributed to backend modules and application development.
-- Developed an understanding of secure and performant software engineering practices.
+📊 DevOps & Tools: Git, GitHub, Jenkins, Maven, Azure DevOps, IntelliJ IDEA, Postman
 
-## 🛠️ My Technical Toolkit
+🧪 Testing: JUnit 5, Mockito, Apache JMeter, Playwright
 
-💻 **Programming Languages:** Java, JavaScript, SQL
+🧠 AI Tools: GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
 
-⚙️ **Backend Technologies:** Java, Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, Microservices, RESTful APIs
+## 🎓 Certifications
 
-🗄️ **Databases:** PostgreSQL, MySQL, Cassandra, Redis, MongoDB
+Add your certifications here.
 
-☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Git, Maven, Azure DevOps
-
-🔄 **Messaging & Architecture:** Apache Kafka, Spring Cloud, Feign Client, Config Server, MVC Architecture
-
-🖥️ **Frontend Technologies:** HTML5, CSS3, JavaScript, React.js
-
-🧪 **Testing Tools:** JUnit 5, Mockito, Apache JMeter, Playwright, API Testing, Load Testing
-
-📐 **System Design:** Data Structures & Algorithms, OOPS, SOLID Principles, Design Patterns, MVC Architecture
-
-🤖 **AI Tools:** GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering, AI Output Evaluation
-
-## 🚀 Featured Projects
-
-### 1. Expense Tracker Application
-
-A personal finance management application designed to track expenses, manage budgets, and monitor financial activities.
-
-**Key Features:**
-- Developed RESTful backend services.
-- Implemented secure JWT-based authentication.
-- Designed efficient database schemas.
-- Optimized database queries to improve response times.
-- Built expense tracking and management functionality.
-
-**Tech Stack:** Java, Spring Boot, Spring Security, React.js, SQL.
-
-### 2. E-Commerce Backend System
-
-A scalable backend application designed to manage e-commerce operations.
-
-**Key Features:**
-- Developed backend services for product management.
-- Implemented order and payment management functionality.
-- Designed scalable microservices.
-- Optimized data flows and caching to improve performance.
-
-**Tech Stack:** Java, Spring Boot, Spring Security, MySQL, Postman.
-
-### 3. Job Portal Application
-
-A job portal application supporting job postings, applications, and recruiter dashboards.
-
-**Key Features:**
-- Developed REST APIs for job postings and applications.
-- Implemented role-based authentication.
-- Built search and filtering functionality.
-- Used Spring Data JPA Specifications for dynamic queries.
-- Improved database query efficiency.
-
-**Tech Stack:** Java 17, Spring Boot, MySQL, Hibernate, Lombok, Maven.
-
-## 🎓 Education
-
-**Siddaganga Institute of Technology (SIT)**
-
-Bachelor of Technology – Electronics and Communication Engineering
-
-📍 Tumkur, Karnataka | July 2017 – August 2021
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagannathareddyP&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagannathareddyP&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JagannathareddyP&theme=tokyonight&hide_border=true)
-
-## 🌐 Connect With Me
-
-- 📧 Email: [reddyjaganath2899@gmail.com](mailto:reddyjaganath2899@gmail.com)
-- 📱 Phone: 7026679382
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 💻 GitHub: [JagannathareddyP](https://github.com/JagannathareddyP)
-
-## 💻 Technologies & Tools
+Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,mongodb,redis,react,js,html,css,aws,docker,kubernetes,jenkins,git,github,idea,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,postgres,mongodb,redis,aws,kafka,docker,kubernetes,jenkins,git,github,idea,vscode,postman" />
 </p>
-
----
-
-⭐ Thank you for visiting my GitHub profile!
-
-Feel free to explore my repositories, connect with me, and collaborate on exciting projects.
-
-**Let's build something amazing together! 🚀**
