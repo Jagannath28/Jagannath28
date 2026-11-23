@@ -8,8 +8,7 @@ During my journey as a Software Engineer, I have worked on developing RESTful AP
 
 I'm always excited to explore new technologies, improve my technical skills, and collaborate with developers on impactful projects. When I'm not coding, you might find me exploring new technologies or learning about software architecture. 💻
 
-Feel free to check out my repositories. Let's connect and build something amazing together! ✨
-
+**Feel free to check out my repositories. Let's connect and build something amazing together! ✨**
 [LinkedIn Profile](https://www.linkedin.com/in/jagannath-reddy-p-8625861a0/)
 
 [Portfolio Website](https://poetic-gumdrop-39f2da.netlify.app)
