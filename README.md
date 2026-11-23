@@ -34,7 +34,8 @@ I'm always excited to explore new technologies, improve my technical skills, and
 
 🧠 **AI Tools:** GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
 
-Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
+ Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
+
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,postgres,mongodb,redis,aws,kafka,docker,kubernetes,jenkins,git,github,idea,vscode,postman" />
