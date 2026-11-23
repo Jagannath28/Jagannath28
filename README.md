@@ -18,21 +18,21 @@ I'm always excited to explore new technologies, improve my technical skills, and
 
 ## My Toolkit 🛠
 
-💻## Languages: Java, JavaScript, SQL
+💻 **Languages:** Java, JavaScript, SQL
 
-🖥️ Frontend: React.js, HTML5, CSS3
+🖥️ **Frontend:** React.js, HTML5, CSS3
 
-🛠️ Backend: Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, Microservices, REST APIs
+🛠️ **Backend:** Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, Microservices, REST APIs
 
-⚙️ Databases: PostgreSQL, MySQL, Cassandra, Redis, MongoDB
+⚙️ **Databases:** PostgreSQL, MySQL, Cassandra, Redis, MongoDB
 
-☁️ Cloud: AWS, Docker, Kubernetes
+☁️ **Cloud:** AWS, Docker, Kubernetes
 
-📊 DevOps & Tools: Git, GitHub, Jenkins, Maven, Azure DevOps, IntelliJ IDEA, Postman
+📊 **DevOps & Tools:** Git, GitHub, Jenkins, Maven, Azure DevOps, IntelliJ IDEA, Postman
 
-🧪 Testing: JUnit 5, Mockito, Apache JMeter, Playwright
+🧪 **Testing:** JUnit 5, Mockito, Apache JMeter, Playwright
 
-🧠 AI Tools: GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
+🧠 **AI Tools:** GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
 
 Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 
