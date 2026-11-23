@@ -18,7 +18,7 @@ I'm always excited to explore new technologies, improve my technical skills, and
 
 ## My Toolkit 🛠
 
-💻 Languages: Java, JavaScript, SQL
+💻## Languages: Java, JavaScript, SQL
 
 🖥️ Frontend: React.js, HTML5, CSS3
 
