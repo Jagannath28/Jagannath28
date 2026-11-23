@@ -1,98 +1,142 @@
 # Welcome to My GitHub! 👋
 
-## About Me
+## 👨‍💻 About Me
 
-👋 Hi, I'm **Jagannath Reddy P**, a passionate Java Backend Developer interested in building scalable, secure, and high-performance applications.
+👋 Hi, I'm **Jagannath Reddy P**, a results-driven Software Developer specializing in Java, Spring Boot, and Microservices development.
 
-I specialize in **Java, Spring Boot, Hibernate, REST APIs, and Microservices**. I enjoy designing backend architectures, developing efficient APIs, working with databases, and solving complex software engineering problems.
+I have experience designing, developing, and deploying scalable backend applications using Java, Spring Boot, Hibernate, and RESTful APIs.
 
-💻 My technical interests include backend development, distributed systems, database management, cloud technologies, and modern application architectures.
+My expertise includes working with SQL and NoSQL databases such as PostgreSQL, MySQL, Cassandra, Redis, and MongoDB, building secure and high-performance applications, and developing solutions across distributed cloud environments using AWS.
 
-🚀 I enjoy continuously learning new technologies, improving my coding skills, and building real-world applications that solve practical problems.
+🚀 I'm passionate about backend engineering, microservices architecture, database optimization, system design, and building reliable software solutions.
 
-I'm always excited to explore new technologies, collaborate with developers, and contribute to impactful projects.
+💡 I believe in writing clean, maintainable code, following Test-Driven Development (TDD), and continuously exploring emerging technologies.
 
-## 👨‍💻 Professional Experience
+## 💼 Professional Experience
 
-**Software Engineer – Comviva Technologies**
+### Software Engineer – Mahi Solar Solution Private Limited
+📍 Bengaluru, Karnataka | Dec 2023 – Aug 2026
 
-- Worked on enterprise software development.
-- Gained experience in Java-based application development.
-- Worked with backend technologies and database-driven applications.
-- Contributed to software development and maintenance activities.
+- Developed 20+ RESTful APIs using Java, Spring Boot, and Hibernate.
+- Worked on backend services handling 10K+ daily transactions.
+- Improved API response time by 40% through SQL optimization, indexing, and caching.
+- Developed dashboards and data visualizations for expense tracking.
+- Performed API load and performance testing using Apache JMeter.
+- Leveraged GitHub Copilot, Claude AI, and Codex for code generation and unit test scaffolding.
 
-## 🛠️ My Toolkit
+### Senior Engineer – Comviva Technologies Limited
+📍 Bengaluru, Karnataka | Dec 2022 – Dec 2023
+
+- Managed SQL and NoSQL data flows using PostgreSQL, MySQL, Cassandra, and Redis.
+- Implemented OAuth and JWT security practices.
+- Developed responsive frontend interfaces using React.js, JavaScript, HTML, and CSS.
+- Built microservices using Spring Cloud, Feign Client, and Config Server.
+- Integrated React applications with Spring Boot REST APIs.
+- Developed automated end-to-end tests using Playwright.
+- Integrated CI/CD pipelines using Jenkins and Azure DevOps.
+- Implemented monitoring and log aggregation using Grafana and ELK Stack.
+
+### Engineer – Comviva Technologies Limited
+📍 Bengaluru, Karnataka | Nov 2021 – Dec 2022
+
+- Developed high-traffic RESTful APIs using Spring Boot and Hibernate.
+- Built event-driven microservices using Apache Kafka and Spring Boot.
+- Worked with Terraform for infrastructure provisioning.
+- Optimized SQL queries, indexing, connection pooling, and caching.
+- Supported application deployment and debugging on Tomcat servers.
+- Designed database schemas supporting millions of records.
+
+### Engineer Trainee – Comviva Technologies Limited
+📍 Bengaluru, Karnataka | Jul 2021 – Oct 2021
+
+- Worked on Java-based enterprise application development.
+- Contributed to backend modules and application development.
+- Developed an understanding of secure and performant software engineering practices.
+
+## 🛠️ My Technical Toolkit
 
 💻 **Programming Languages:** Java, JavaScript, SQL
 
-🖥️ **Backend Technologies:** Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA
+⚙️ **Backend Technologies:** Java, Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA, Microservices, RESTful APIs
 
-⚙️ **API Development:** REST APIs, Microservices, JWT Authentication
+🗄️ **Databases:** PostgreSQL, MySQL, Cassandra, Redis, MongoDB
 
-🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Cassandra
+☁️ **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Git, Maven, Azure DevOps
 
-🌐 **Frontend Technologies:** React.js, HTML5, CSS3
+🔄 **Messaging & Architecture:** Apache Kafka, Spring Cloud, Feign Client, Config Server, MVC Architecture
 
-☁️ **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, Kubernetes, Jenkins
+🖥️ **Frontend Technologies:** HTML5, CSS3, JavaScript, React.js
 
-🧰 **Build & Development Tools:** Git, GitHub, Maven, IntelliJ IDEA, Postman
+🧪 **Testing Tools:** JUnit 5, Mockito, Apache JMeter, Playwright, API Testing, Load Testing
 
-🤖 **AI Development Tools:** GitHub Copilot, Claude, OpenAI Codex
+📐 **System Design:** Data Structures & Algorithms, OOPS, SOLID Principles, Design Patterns, MVC Architecture
+
+🤖 **AI Tools:** GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering, AI Output Evaluation
 
 ## 🚀 Featured Projects
 
 ### 1. Expense Tracker Application
 
-A full-stack expense management application designed to track expenses, manage budgets, and visualize financial activities.
+A personal finance management application designed to track expenses, manage budgets, and monitor financial activities.
 
-**Features:**
-- User authentication using JWT.
-- Role-based access control.
-- Expense and income management.
-- Budget management.
-- Dashboard and financial analytics.
-- Recurring transactions.
+**Key Features:**
+- Developed RESTful backend services.
+- Implemented secure JWT-based authentication.
+- Designed efficient database schemas.
+- Optimized database queries to improve response times.
+- Built expense tracking and management functionality.
 
-**Technologies:** Java, Spring Boot, Spring Security, React.js, MySQL.
+**Tech Stack:** Java, Spring Boot, Spring Security, React.js, SQL.
 
-### 2. E-Commerce Application
+### 2. E-Commerce Backend System
 
-A web-based e-commerce application with backend functionality for managing products, customers, and transactions.
+A scalable backend application designed to manage e-commerce operations.
 
-**Technologies:** Java, Spring Boot, Hibernate, MySQL, JSP.
+**Key Features:**
+- Developed backend services for product management.
+- Implemented order and payment management functionality.
+- Designed scalable microservices.
+- Optimized data flows and caching to improve performance.
 
-### 3. Task Management Application
+**Tech Stack:** Java, Spring Boot, Spring Security, MySQL, Postman.
 
-An application designed to organize tasks and manage workflows using RESTful backend services.
+### 3. Job Portal Application
 
-**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL.
+A job portal application supporting job postings, applications, and recruiter dashboards.
+
+**Key Features:**
+- Developed REST APIs for job postings and applications.
+- Implemented role-based authentication.
+- Built search and filtering functionality.
+- Used Spring Data JPA Specifications for dynamic queries.
+- Improved database query efficiency.
+
+**Tech Stack:** Java 17, Spring Boot, MySQL, Hibernate, Lombok, Maven.
 
 ## 🎓 Education
 
-**Bachelor of Engineering – Electronics and Communication Engineering**
+**Siddaganga Institute of Technology (SIT)**
 
-Siddaganga Institute of Technology (SIT), Tumkur
+Bachelor of Technology – Electronics and Communication Engineering
 
-2017 – 2021
-
-CGPA: 8.04 / 10
+📍 Tumkur, Karnataka | July 2017 – August 2021
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagannath28&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JagannathareddyP&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath28&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JagannathareddyP&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jagannath28&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=JagannathareddyP&theme=tokyonight&hide_border=true)
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile
-- 💻 GitHub: https://github.com/Jagannath28
-- 📧 Email: Add your professional email
-- 🌍 Portfolio: Add your portfolio website
+- 📧 Email: [reddyjaganath2899@gmail.com](mailto:reddyjaganath2899@gmail.com)
+- 📱 Phone: 7026679382
+- 💼 LinkedIn: Add your LinkedIn profile URL
+- 💻 GitHub: [JagannathareddyP](https://github.com/JagannathareddyP)
 
 ## 💻 Technologies & Tools
 
