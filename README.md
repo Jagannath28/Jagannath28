@@ -10,9 +10,9 @@ I'm always excited to explore new technologies, improve my technical skills, and
 
 Feel free to check out my repositories. Let's connect and build something amazing together! ✨
 
-[LinkedIn Profile](YOUR_LINKEDIN_URL)
+[LinkedIn Profile](https://www.linkedin.com/in/jagannath-reddy-p-8625861a0/)
 
-[Portfolio Website](YOUR_PORTFOLIO_URL)
+[Portfolio Website](https://poetic-gumdrop-39f2da.netlify.app)
 
 [Email](mailto:reddyjaganath2899@gmail.com)
 
