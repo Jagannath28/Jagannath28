@@ -34,10 +34,6 @@ Feel free to check out my repositories. Let's connect and build something amazin
 
 🧠 AI Tools: GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
 
-## 🎓 Certifications
-
-Add your certifications here.
-
 Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 
 <p align="left">
