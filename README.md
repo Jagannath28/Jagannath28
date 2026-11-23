@@ -1,79 +1,109 @@
+# Welcome to My GitHub! 👋
 
-# Hi 👋, I'm Jagannath Reddy P
+## About Me
 
-### Java Backend Developer | Spring Boot | Microservices | Cloud Technologies
+👋 Hi, I'm **Jagannath Reddy P**, a passionate Java Backend Developer interested in building scalable, secure, and high-performance applications.
 
-🚀 Passionate software developer focused on building scalable, reliable, and high-performance backend applications.
+I specialize in **Java, Spring Boot, Hibernate, REST APIs, and Microservices**. I enjoy designing backend architectures, developing efficient APIs, working with databases, and solving complex software engineering problems.
 
-### 👨‍💻 About Me
+💻 My technical interests include backend development, distributed systems, database management, cloud technologies, and modern application architectures.
 
-- 💻 Java Backend Developer with experience in Java and Spring Boot.
-- 🌱 Currently improving my knowledge of Microservices and System Design.
-- 🔭 Interested in developing scalable REST APIs and distributed applications.
-- ☁️ Exploring AWS, Docker, Kubernetes, and CI/CD.
-- 💡 Interested in problem-solving, clean code, and software architecture.
-- 🤝 Always excited to collaborate on interesting projects.
+🚀 I enjoy continuously learning new technologies, improving my coding skills, and building real-world applications that solve practical problems.
 
-### 🛠️ Technical Skills
+I'm always excited to explore new technologies, collaborate with developers, and contribute to impactful projects.
 
-**Programming Languages**
-- Java, SQL, JavaScript
+## 👨‍💻 Professional Experience
 
-**Backend Technologies**
-- Spring Boot, Spring MVC, Spring Security
-- Hibernate, Spring Data JPA
-- REST APIs, Microservices
+**Software Engineer – Comviva Technologies**
 
-**Databases**
-- MySQL, PostgreSQL, MongoDB, Redis
+- Worked on enterprise software development.
+- Gained experience in Java-based application development.
+- Worked with backend technologies and database-driven applications.
+- Contributed to software development and maintenance activities.
 
-**Cloud & DevOps**
-- AWS, Docker, Kubernetes, Jenkins, Git
+## 🛠️ My Toolkit
 
-**Frontend**
-- React.js, HTML, CSS
+💻 **Programming Languages:** Java, JavaScript, SQL
 
-**Tools**
-- IntelliJ IDEA, Postman, Maven, GitHub
+🖥️ **Backend Technologies:** Spring Boot, Spring MVC, Spring Security, Hibernate, Spring Data JPA
 
-### 🚀 Featured Projects
+⚙️ **API Development:** REST APIs, Microservices, JWT Authentication
 
-**1. Expense Tracker Application**
-- Developed a full-stack expense management application.
-- Implemented JWT authentication and role-based authorization.
-- Built expense tracking, budgeting, and dashboard functionality.
-- Technologies: Java, Spring Boot, React, MySQL.
+🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Cassandra
 
-**2. E-Commerce Application**
-- Developed backend functionality for an e-commerce platform.
-- Implemented REST APIs and database integration.
-- Technologies: Java, Spring Boot, Hibernate, MySQL.
+🌐 **Frontend Technologies:** React.js, HTML5, CSS3
 
-**3. Task Management Application**
-- Developed task management functionality with REST APIs.
-- Implemented CRUD operations and database persistence.
-- Technologies: Java, Spring Boot, MySQL.
+☁️ **Cloud & DevOps:** AWS (EC2, S3, SQS), Docker, Kubernetes, Jenkins
 
-### 🎓 Education
+🧰 **Build & Development Tools:** Git, GitHub, Maven, IntelliJ IDEA, Postman
+
+🤖 **AI Development Tools:** GitHub Copilot, Claude, OpenAI Codex
+
+## 🚀 Featured Projects
+
+### 1. Expense Tracker Application
+
+A full-stack expense management application designed to track expenses, manage budgets, and visualize financial activities.
+
+**Features:**
+- User authentication using JWT.
+- Role-based access control.
+- Expense and income management.
+- Budget management.
+- Dashboard and financial analytics.
+- Recurring transactions.
+
+**Technologies:** Java, Spring Boot, Spring Security, React.js, MySQL.
+
+### 2. E-Commerce Application
+
+A web-based e-commerce application with backend functionality for managing products, customers, and transactions.
+
+**Technologies:** Java, Spring Boot, Hibernate, MySQL, JSP.
+
+### 3. Task Management Application
+
+An application designed to organize tasks and manage workflows using RESTful backend services.
+
+**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL.
+
+## 🎓 Education
 
 **Bachelor of Engineering – Electronics and Communication Engineering**
 
-Siddaganga Institute of Technology, Tumkur
+Siddaganga Institute of Technology (SIT), Tumkur
 
 2017 – 2021
 
-### 📊 GitHub Statistics
+CGPA: 8.04 / 10
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagannath28&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath28&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagannath28&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🤝 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagannath28&layout=compact&theme=tokyonight&hide_border=true)
 
-- LinkedIn: Add your LinkedIn profile
-- GitHub: https://github.com/Jagannath28
-- Email: Add your email address
+## 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jagannath28&theme=tokyonight&hide_border=true)
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn profile
+- 💻 GitHub: https://github.com/Jagannath28
+- 📧 Email: Add your professional email
+- 🌍 Portfolio: Add your portfolio website
+
+## 💻 Technologies & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,mongodb,redis,react,js,html,css,aws,docker,kubernetes,jenkins,git,github,idea,vscode,postman" />
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
+⭐ Thank you for visiting my GitHub profile!
+
+Feel free to explore my repositories, connect with me, and collaborate on exciting projects.
+
+**Let's build something amazing together! 🚀**
