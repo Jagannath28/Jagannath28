@@ -34,6 +34,8 @@ I'm always excited to explore new technologies, improve my technical skills, and
 
 🧠 **AI Tools:** GitHub Copilot, Claude AI, OpenAI Codex, Prompt Engineering
 
+---
+
 Thank you for visiting my GitHub! Let's build something amazing together. Feel free to explore my projects, contribute, or reach out for collaboration.
 
 <p align="left">
